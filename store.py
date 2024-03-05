@@ -1,3 +1,4 @@
+#store sales review project
 products = ["Sankofa Foods", "Jamestown Coffee", "Bioko Chocolate", "Blue Skies Ice Cream", "Fair Afric Chocolate", "Kawa Moka Coffee", "Aphro Spirit", "Mensado Bissap", "Voltic"]
 
 prices = [30, 25, 40, 20, 20, 35, 45, 50, 35]
